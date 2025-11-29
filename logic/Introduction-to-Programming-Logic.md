@@ -69,4 +69,4 @@ A graphical representation of an algorithm.
 * **Purpose:** Allows you to visualize the step-by-step flow of the solution.
 * **Usage:** Essential for debugging logic errors before writing code.
 
-**Next Steps ->** [Tools for the Course](./Tools-for-the-Course)
+**Next Steps ->** [Tools for the Course](./Tools-for-the-Course.md)
