@@ -1,7 +1,7 @@
 # Logic & Algorithms with PSeInt
 **Date:** 2025-11-27
 **Tags:** #PSeInt #Logic #Algorithms #Flowchart
-**Back to ->** [[README]]
+**Back to ->** [README](/learning-log/README.md)
 ## Writing the First Algorithm
 The "Hello World" program is the traditional starting point to verify that the development environment is set up correctly.
 
@@ -26,4 +26,4 @@ Click the diagram icon in the toolbar to generate the flowchart for the current 
 
 This visual aid is crucial for understanding how the program's execution flows sequentially from "Algoritmo" to "FinAlgoritmo".
 
-**Next Step ->** [[Introduction-to-Programming-Logic]]
+**Next Step ->** [Introduction to Programming Logic](./Introduction-to-Programming-Logic.md)
