@@ -1,6 +1,7 @@
+# Toools for the Course
 **Date:** 2025-11-28
 **Tags:** #IDE #Tools #Setup #Python #Java #Cpp
-**Back to ->** [[README]] or [[Introduction-to-Programming-Logic]]
+**Back to ->** [README](../README.md) or [Introduction to Programming Logic](./Introduction-to-Programming-Logic.md)
 ## Definition: IDE
 **IDE** stands for **Integrated Development Environment**. It is a software application that provides comprehensive facilities to computer programmers for software development.
 
