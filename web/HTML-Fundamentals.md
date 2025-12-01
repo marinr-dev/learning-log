@@ -58,4 +58,4 @@ Technically, yes, but it is not sufficient for modern web development. HTML only
 * **CSS:** Style and Layout.
 * **JavaScript:** Interactivity and Logic.
 
-**Next step ->** [HTML Attributes](./HTML-Attributes.md)
+**Next Steps ->** [HTML Attributes](./HTML-Attributes.md)
