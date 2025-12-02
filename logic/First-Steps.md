@@ -26,4 +26,8 @@ Click the diagram icon in the toolbar to generate the flowchart for the current 
 
 This visual aid is crucial for understanding how the program's execution flows sequentially from "Algoritmo" to "FinAlgoritmo".
 
+## Code Examples
+* [Hola Mundo/Hello World](./HolaMundo.psc)
+* [Saludar/Greet](./Saludad.psc)
+
 **Next Step ->** [Introduction to Programming Logic](./Introduction-to-Programming-Logic.md)
