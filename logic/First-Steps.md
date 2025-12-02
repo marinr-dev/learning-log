@@ -28,6 +28,6 @@ This visual aid is crucial for understanding how the program's execution flows s
 
 ## Code Examples
 * [Hola Mundo/Hello World](./HolaMundo.psc)
-* [Saludar/Greet](./Saludad.psc)
+* [Saludar/Greet](./Saludar.psc)
 
 **Next Step ->** [Introduction to Programming Logic](./Introduction-to-Programming-Logic.md)
