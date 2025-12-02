@@ -23,3 +23,5 @@ The following Integrated Development Environments will be used depending on the 
 | **C#** | **Visual Studio** | A robust IDE by Microsoft, essential for .NET development. |
 | **JavaScript** | **Visual Studio Code** | A lightweight, extensible code editor (distinct from Visual Studio). |
 | **Python** | **PyCharm** | A powerful IDE specifically designed for professional Python development. |
+
+**Next Steps ->** [Variables and Data Types](./Variables-and-Data-Types.md)
